@@ -26,7 +26,7 @@ An inventory is seldom fully complete in its first iteration. It is highly advis
 
 ## Next steps
 
-Once an inventory is compiled and validated, it can rationalized. Inventory Rationalization is the next step to digital estate planning.
+Once an inventory is compiled and validated, it can be rationalized. Inventory Rationalization is the next step to digital estate planning.
 
 > [!div class="nextstepaction"]
 > [Rationalize the digital estate](rationalize.md)
